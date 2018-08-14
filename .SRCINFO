@@ -1,0 +1,12 @@
+pkgbase = dart
+	pkgdesc = The Dart Programming Language SDK
+	pkgver = 2.0.0
+	pkgrel = 1
+	url = https://www.dartlang.org
+	arch = x86_64
+	license = BSD
+	source_x86_64 = http://storage.googleapis.com/dart-archive/channels/stable/release/2.0.0/sdk/dartsdk-linux-x64-release.zip
+	sha512sums_x86_64 = SKIP
+
+pkgname = dart-mainline
+
